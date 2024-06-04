@@ -82,8 +82,8 @@ function HeroSection() {
             </p>
           </div>
           <div className="overflow-hidden border-t-[2px] border-indigo-900 px-4 lg:px-8 py-4 lg:py-8">
-            <video id="showreel" width="1920" height="1080" autoPlay loop muted>
-              <source src="showreel/June-ShowReel.mp4" type="video/mp4"/>
+            <video id="showreel" width="1280" height="720" autoPlay loop muted>
+              <source src="showreel/June-Showreel.mp4" type="video/mp4"/>
             </video>
           </div>
         </div>
