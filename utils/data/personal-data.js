@@ -1,0 +1,18 @@
+export const personalData = {
+  name: "Nadeem Wali",
+  profile: "/Profile-Picture.jpg",
+  designation: "Games Designer and Developer",
+  description: "My name is Nadeem Wali and I am an enthusiastic designer in my daily life. I am a quick learner with a self-learning attitude. I love all aspects of designing and developing games and love to create unique and fun experiences. I love to learn and explore new technologies and i'm passionation abouut being creative and solving problems. I am available for any kind of job opportunity that suits my skills and interests in the games industry! ",
+  email: "nadeem.wali.2001@gmail.com",
+  phone: "+447707348844",
+  address: "Sheffield, UK",
+  github: "https://github.com/OrphicNinja",
+  facebook: "",
+  linkedIn: "https://www.linkedin.com/in/nadeem-wali-709707277/",
+  twitter: "",
+  stackOverflow: "",
+  leetcode: "",
+  itchio: "https://nadzw.itch.io",
+  devUsername: "",
+  resume: "https://drive.google.com/file/d/1Mh9C6JGD-DKxU8_41eKsaHndzVv_AJcK/view",
+};
