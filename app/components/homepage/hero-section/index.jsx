@@ -77,14 +77,14 @@ function HeroSection() {
             <div className="h-[1px] w-full bg-gradient-to-r from-violet-600 to-transparent"></div>
           </div>
           <div className="px-4 lg:px-8 py-5">
-            <div className="flex flex-row space-x-2">
-              <div className="h-3 w-3 rounded-full bg-red-400"></div>
-              <div className="h-3 w-3 rounded-full bg-orange-400"></div>
-              <div className="h-3 w-3 rounded-full bg-green-200"></div>
-            </div>
+            <p className="text-center ml-3 text-[#16f2b3] text-base lg:text-xl">
+              Showreel
+            </p>
           </div>
           <div className="overflow-hidden border-t-[2px] border-indigo-900 px-4 lg:px-8 py-4 lg:py-8">
-            
+            <video id="showreel" width="1920" height="1080" autoPlay loop muted>
+              <source src="showreel/June-ShowReel.mp4" type="video/mp4"/>
+            </video>
           </div>
         </div>
       </div>
